@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Hypnotic
+Comment=A dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Hypnotic
+MetacityTheme=Hypnotic
+IconTheme=Hypnotic
+CursorTheme=DMZ-Black
+ButtonLayout=close,minimize,maximize:menu

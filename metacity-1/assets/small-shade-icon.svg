@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="master-artboard" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" style="enable-background:new 0 0 1400 980;" width="14px" height="14px"><rect id="ee-background" x="0" y="0" width="14" height="14" style="fill: white; fill-opacity: 0; pointer-events: none;"/><g transform="matrix(1.1428571939468384, 0, 0, 1.1428571939468384, -1.0000019073486328, -1)"><metadata id="metadata26">image/svg+xml</metadata><g>
+  <title>background</title>
+  <path d="M -1 -1 H 15 V 15 H -1 V -1 Z" fill="none" id="canvas_background"/>
+ </g><g>
+  <title>Layer 1</title>
+  <g display="inline" id="g4490-3-75">
+   <g display="inline" id="g4092-0-7-0"/>
+  </g>
+  <path d="M 0 0 H 16 V 16 H 0 V 0 Z" fill="none" stroke-miterlimit="4" stroke-dashoffset="0" stroke-opacity="0" id="rect17883-32"/>
+  <g id="svg_1">
+   <path fill="#000000" fill-opacity="0.5" fill-rule="nonzero" stroke-width="0.8" id="path3842-6" d="m4.5,3c-0.831,0 -1.5,0.669 -1.5,1.5l0,1.5l8,0l0,-1.5c0,-0.831 -0.669,-1.5 -1.5,-1.5l-5,0z"/>
+   <path fill="#000000" fill-opacity="0.5" fill-rule="nonzero" stroke-width="0.8" id="path3842" d="m10,9l-3,-3l-3,3l2,0l0,2l2,0l0,-2l2,0z"/>
+  </g>
+ </g></g></svg>
