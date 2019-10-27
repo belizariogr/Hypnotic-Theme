@@ -4,7 +4,7 @@ Hypnotic Theme - A GTK3 inspired by the Mac OS X theme.
 Installation
 ------------
 
-Just copy the files to .themes/Hypnotic folder.
+Just extract the content of the tar file to your home folder.
 
 
 Demonstration
